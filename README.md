@@ -4,10 +4,7 @@
   
 
 ### <div align="center">I'm Lalit ,a full-time full-stack developer 👨‍💻 
-</div>  
-  
-
--   
+</div>   
   
 
 - 🌱 I’m currently learning   
