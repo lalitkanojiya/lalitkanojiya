@@ -36,7 +36,7 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -53,11 +53,8 @@
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
 
 <br/>  
 
